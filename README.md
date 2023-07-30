@@ -1,6 +1,6 @@
 # Frontend-1-Contest-2-July
 
-# Third Contest for Frontend 1 Module
+# Second Contest for Frontend 1 Module
 
 # Here is Deploy Link - 
 
